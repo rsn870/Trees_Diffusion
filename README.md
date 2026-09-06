@@ -1,7 +1,24 @@
-
 # Trees to Flows and Back: Unifying Decision Trees and Diffusion Models
 
 > Research experiments exploring connections between decision trees and diffusion models through hierarchical structure, flow matching, and neural tree distillation.
+
+This repository accompanies the paper:
+
+> **Trees to Flows and Back: Unifying Decision Trees and Diffusion Models**
+> Sai Niranjan Ramachandran, Suvrit Sra
+> *ICML 2026 — 43rd International Conference on Machine Learning*, Seoul, South Korea
+> [arXiv:2605.00414](https://arxiv.org/abs/2605.00414)
+
+If you use this code, please cite:
+
+```bibtex
+@inproceedings{ramachandran2026trees,
+  title     = {Trees to Flows and Back: Unifying Decision Trees and Diffusion Models},
+  author    = {Ramachandran, Sai Niranjan and Sra, Suvrit},
+  booktitle = {Forty-third International Conference on Machine Learning (ICML)},
+  year      = {2026}
+}
+```
 
 ## Abstract
 
@@ -369,7 +386,16 @@ pip install torch numpy scipy scikit-learn pandas matplotlib seaborn tqdm torchv
 
 ---
 
+## Citation
 
+```bibtex
+@inproceedings{ramachandran2026trees,
+  title     = {Trees to Flows and Back: Unifying Decision Trees and Diffusion Models},
+  author    = {Ramachandran, Sai Niranjan and Sra, Suvrit},
+  booktitle = {Forty-third International Conference on Machine Learning (ICML)},
+  year      = {2026}
+}
+```
 
 ## License
 
